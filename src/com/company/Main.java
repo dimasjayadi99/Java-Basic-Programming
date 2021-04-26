@@ -67,6 +67,8 @@ public class Main {
                 pembagian();
                 menu();
                 break;
+            default:
+                break;
         }
 
     }
