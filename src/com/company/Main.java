@@ -68,6 +68,8 @@ public class Main {
                 menu();
                 break;
             default:
+                System.out.print("Opsi pilihan salah!");
+                menu();
                 break;
         }
 
