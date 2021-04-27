@@ -10,8 +10,8 @@ Program ini berisi contoh seperti penggunaan variabel global , perulangan , pemb
 
 1. Download here [Intellij IDEA](https://www.jetbrains.com/idea/download/#section=windows).
 2. Install Intellij IDEA on your device. For windows just double click on .exe file.
-3. Installation for linux ubuntu[Intellij IDEA](https://www.jetbrains.com/idea/download/#section=linux).
-```sh idea.sh```
+3. Installation for linux ubuntu [Intellij IDEA](https://www.jetbrains.com/idea/download/#section=linux).
+> ```sh idea.sh```
 
 * JDK 12.0.1
 
