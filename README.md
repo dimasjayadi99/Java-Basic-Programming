@@ -4,8 +4,6 @@
 Program ini berisi contoh seperti penggunaan variabel global , perulangan , pembuatan dan pemanggilan fungsi , dan lain-lain.
 
 ## Installation
-
-## Usage 
 * Intellij IDEA
 
 1. Download here [Intellij IDEA](https://www.jetbrains.com/idea/download/#section=windows).
@@ -14,7 +12,7 @@ Program ini berisi contoh seperti penggunaan variabel global , perulangan , pemb
 > ```sh idea.sh```
 
 * JDK 12.0.1
+Download JDK here [JDK](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html).
 
 ## Credits
-
-Author : Dimas Jayadi
+> Author : Dimas Jayadi
